@@ -1,0 +1,3 @@
+adicionei a primeira linha
+ok
+vamos ver no git local
